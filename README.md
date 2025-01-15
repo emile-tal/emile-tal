@@ -8,7 +8,7 @@ Driven by a love for problem-solving, I find coding to be the perfect way to tac
 I'm currently learning to create RESTful APIs with Python (Flask), containerizing with Docker, and deploying with Google Cloud Run. I'm also experimenting with PostgreSQL and MongoDB databases.
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,express,python,flask,mysql,postgres,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nodejs,express,python,flask,mysql,postgres,docker,git)](https://skillicons.dev)
 
 ### Contact me
 [My Website](https://emiletal.com) |
