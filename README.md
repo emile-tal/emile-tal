@@ -1,13 +1,5 @@
-### Emile Tal
-*Full-stack software engineer*
+Software engineer at SAM Labs in Miami, rebuilding the coding platform 400,000+ students use to learn to code with real hardware.
 
-### My mission
-Driven by a love for problem-solving, I find coding to be the perfect way to tackle complex challenges and create solutions that positively impact others. My background in hospitality has equipped me with strong interpersonal skills, allowing me to easily communicate  with people, understand their unique needs, and craft solutions that address their concerns. This combination of technical ability and empathy enables me to approach each problem with both precision and insight.
+My work is in private company repos. I write about what I've built at [emiletal.com](https://emiletal.com).
 
-### My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,python,flask,mysql,postgres,docker,gcp,git)](https://skillicons.dev)
-
-### Contact me
-[My Website](https://emiletal.com) |
-[LinkedIn](https://www.linkedin.com/in/emile-tal) |
-emiletal@gmail.com
+[LinkedIn](https://www.linkedin.com/in/emile-tal) · emiletal@gmail.com
